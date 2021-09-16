@@ -1,0 +1,52 @@
+.h {
+
+    background: #ff4d4d;
+    padding: 10px;
+    border: 2 px solid black;
+    color: black;
+    text-align: center;
+
+}
+#b {
+
+    background: cornsilk;
+    color: black;
+}
+#d{
+
+    height: 500px;
+    width: 400px;
+    background: #dcdde1;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+
+}
+#form {
+    color: black;
+    margin: auto;
+    text-align:center;
+    padding: auto;
+    height: 30px;
+    width: 390px;
+    margin-top: auto;
+
+}
+.img{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    margin: center;
+    padding: 2px;
+
+}
+#button{
+    height: 30px;
+    width: 390px;
+    background-color:chartreuse;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 2px;
+
+}
